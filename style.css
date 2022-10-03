@@ -1,0 +1,31 @@
+.amt{
+;
+}
+
+#INR,#currencies{
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:#d1fae5;
+    height: 2rem;
+    margin:1rem auto;
+    font-weight: 800;
+    
+}
+#INR{
+    width: 19rem;
+}
+
+
+#output{
+    background-color:#d1fae5;
+    min-width: 15rem;
+    max-width: fit-content;
+    margin: 1rem auto;
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    color: black;
+    text-align:center;
+}
